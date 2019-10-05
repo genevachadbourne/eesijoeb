@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phoipaxuj.chaz.town/sitemap.xml
